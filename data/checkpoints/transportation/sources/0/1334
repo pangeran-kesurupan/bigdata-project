@@ -1,0 +1,4 @@
+v1
+{"path":"file:///home/riduwan/bigdata-project/stream_data/transportation/trip_1775111019785.json","timestamp":1775111019780,"batchId":1334}
+{"path":"file:///home/riduwan/bigdata-project/stream_data/transportation/trip_1775111021785.json","timestamp":1775111021782,"batchId":1334}
+{"path":"file:///home/riduwan/bigdata-project/stream_data/transportation/trip_1775111023786.json","timestamp":1775111023780,"batchId":1334}
